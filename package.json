@@ -6,7 +6,7 @@
     "url": "https://github.com/AnirudhPanda/Hashnode-Blog-Search"
   },
   "icon": "logo.png",
-  "description": "",
+  "description": "Unofficial Extension",
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.56.0"

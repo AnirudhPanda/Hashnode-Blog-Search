@@ -1,5 +1,6 @@
 # hashnode-blogs-search
 
+### UNOFFICIAL, Fan Made.
 This extension lets you search for any of Anirudh Panda's blog articles from Hashnode from within VSCode.
 
 ## How to?
